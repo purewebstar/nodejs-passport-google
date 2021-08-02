@@ -1,5 +1,5 @@
 {
-  "name": "user-account-passport-google",
+  "name": "nodejs-passport-google",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
